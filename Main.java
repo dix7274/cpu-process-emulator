@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // aqui saludo y pido que operacion quiere hacer el usuario
+        // operacion quiere hacer el usuario
         System.out.println("==================================================");
         System.out.println("       CPU PROCESS EMULATOR - MENU PRINCIPAL      ");
         System.out.println("==================================================");
